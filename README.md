@@ -8,6 +8,8 @@ Coleção de dicionários em Portugues (pt-BR)
 
 Lista de palavras, verbos, conjugações e frequência de termos.
 
-
-*verbos* lista de verbos
-*conjugações* todas as conjugações dos verbos
+* *palavras* lista de palavras em Português.
+* *dicio* lista de palavras com maior certeza.
+* *verbos* lista de verbos.
+* *conjugações* todas as conjugações dos verbos.
+* *tf* CSV de frequência de termos.
