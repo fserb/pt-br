@@ -13,3 +13,8 @@ Lista de palavras, verbos, conjugações e frequência de termos.
 * *verbos* lista de verbos.
 * *conjugações* todas as conjugações dos verbos.
 * *tf* CSV de frequência de termos.
+
+
+Listas faltando:
+
+* *cep* cidades, estados e países
