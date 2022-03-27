@@ -13,8 +13,9 @@ Lista de palavras, verbos, conjugações e frequência de termos.
 * *verbos* lista de verbos.
 * *conjugações* todas as conjugações dos verbos.
 * *tf* CSV de frequência de termos.
-
+* *paises* lista de paises e territorios autônomos.
+* *continentes* lista de continentes.
 
 Listas faltando:
 
-* *cep* cidades, estados e países
+* *cep* cidades e estados
