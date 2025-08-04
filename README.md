@@ -16,7 +16,7 @@ Contém 139.755 entradas lexicais, 4.023 verbos, 195.751 conjugações e 404.042
 * **icf** - Pontuações de Frequência Inversa de Corpus para palavras portuguesas (404.042 entradas)
 * **conjugações** - Todas as conjugações verbais (195.751 formas)
 * **listas/verbos** - Lista de verbos portugueses (4.023 verbos)
-* **listas/** - Listas geográficas e de entidades: *continentes*, *paises*, *estados-br*, *municipios-br*
+* **listas/** - Listas especializadas: *continentes*, *paises*, *estados-br*, *municipios-br*, *negativas*
 
 ## ICF (Inverse Corpus Frequency)
 
