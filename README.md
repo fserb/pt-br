@@ -2,18 +2,18 @@ Dictionary collection in Portuguese (pt-BR)
 ===
 
 Comprehensive Portuguese linguistic corpus with lexicon, verbs, conjugations, and ICF scores.  
-Contains 139,755 lexical entries, 4,023 verbs, 195,751 conjugations, and 404,042 ICF-scored words.
+Contains 145,744 lexical entries, 4,023 verbs, 195,751 conjugations, and 419,486 ICF-scored words.
 
 Coleção de dicionários em Português (pt-BR)
 ===
 
 Corpus linguístico abrangente com léxico, verbos, conjugações e pontuações ICF.  
-Contém 139.755 entradas lexicais, 4.023 verbos, 195.751 conjugações e 404.042 palavras com pontuação ICF.
+Contém 145.744 entradas lexicais, 4.023 verbos, 195.751 conjugações e 419.486 palavras com pontuação ICF.
 
 ## Arquivos de Dados
 
-* **lexico** - Léxico completo de palavras portuguesas de múltiplas fontes dicionárias (139.755 entradas)
-* **icf** - Pontuações de Frequência Inversa de Corpus para palavras portuguesas (404.042 entradas)
+* **lexico** - Léxico completo de palavras portuguesas de múltiplas fontes dicionárias (145.744 entradas)
+* **icf** - Pontuações de Frequência Inversa de Corpus para palavras portuguesas (419.486 entradas)
 * **conjugações** - Todas as conjugações verbais (195.751 formas)
 * **listas/verbos** - Lista de verbos portugueses (4.023 verbos)
 * **listas/** - Listas especializadas: *continentes*, *paises*, *estados-br*, *municipios-br*, *negativas*
